@@ -2,10 +2,29 @@
 # LINE Python
 
 *LINE Messaging's private API*
+# MOSEN.bw
+
+![mosen.bw](https://github.com/mohsen-bw/hWorld/blob/master/IMG_20181107_205750_610.jpg)
+
+
+11
+
+# PLEASE ADD ME [MOSEN.BW ](https://line.me/ti/p/~masih.00)
+
+12
+
+# SC Sementara Sewaktu Waktu Akan Di Update
+
+13
+
+
+V2.1 last update::
+
+05/0/2018
 
 ----
+----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
 
 ## Termux
 
@@ -14,8 +33,8 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Aditmadzs/helloworld
-$ cd helloworld
+$ git clone https://github.com/mohsen-bw/hWorld
+$ cd hWorld
 $ pip3 install akad
 $ pip3 install beautifulsoup4
 $ pip3 install bs4
@@ -53,8 +72,8 @@ $ python3 helloworld.py
 ## VPS
 
 ```sh
-$ git clone https://github.com/Aditmadzs/helloworld
-$ cd helloworld
+$ git clone https://github.com/mohsen-bw/hWorld
+$ cd hworld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
 ```
@@ -66,18 +85,3 @@ $ python3 helloworld.py -a IOSIPAD
 
 [HelloWorld](https://discord.gg/5jqbutB)
 
-## Author
-Zero Cool / [@crash-override404](https://github.com/crash-override404)  
-Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)  
-Alin / [@muhmursalind](https://github.com/muhmursalind)
-
-## Support
-All Hello World Members :  
-Tanduri a.k.a HelloTan / [@hellotan](https://github.com/hellotan)  
-Fauzan Ardhana / [@fauzanardh](https://github.com/fauzanardh)  
-Moe Poi ~ / [@moepoi](https://github.com/moepoi)  
-Muhammad Fahri / [@FAHRIZTX](https://github.com/FAHRIZTX)  
-Dosugamea / [@Dosugamea](https://github.com/Dosugamea)  
-Dzin / [@dzingans](https://github.com/dzingans)  
- 
-And others.
